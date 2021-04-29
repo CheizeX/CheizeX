@@ -10,7 +10,8 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 - Living in Rosario, Santa Fe, Argentina -
 
-:computer: # FULL STACK WEB DEVELOPER / FRONT_END DEVELOPER
+:computer: # FULL STACK WEB DEVELOPER / FRONT_END DEVELOPER :computer:
+
 **-> FRONT**
 
 HTML | CSS | SASS - LESS | FIGMA | BOOTSTRAP | JAVASCRIPT  | JQUERY | REACT  | REDUX
