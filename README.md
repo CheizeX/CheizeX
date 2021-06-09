@@ -4,17 +4,17 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 :email: cheize@hotmail.com | cheize1981@gmail.com
 
-:link:**Linkedin:** www.linkedin.com/in/ezequielrivas-dev
+:link: **Linkedin:** www.linkedin.com/in/ezequielrivas-dev
 
-:link:**My Works:** https://vercel.com/cheizex
+:link: **My Works:** https://vercel.com/cheizex
 
-- Living in Rosario, Santa Fe, Argentina -
+- I'm living in Rosario, Santa Fe, Argentina -
 
-# :computer: FULL STACK WEB DEVELOPMENT / FRONT-END DEVELOPER :computer:
+## :computer: FULL STACK WEB DEVELOPMENT / FRONT-END DEVELOPER :computer:
 
 **-> FRONT**
 
-HTML | CSS | SASS - LESS | FIGMA | BOOTSTRAP | JAVASCRIPT  | JQUERY | REACT  | REDUX
+REACT | REDUX | STYLED COMPONENTS | STORYBOOK | SASS - LESS | FIGMA | BOOTSTRAP | MATERIAL UI | JAVASCRIPT  | JQUERY | HTML | CSS |
 
 **-> BACK**
 
@@ -22,5 +22,5 @@ NODE | EXPRESS | SQLITE | POSTGRESQL | MONGODB | FIREBASE | SEQUELIZE
 
 **-> OTROS**
 
-GITHUB | SCRUM | KANBAN | TRELLO 
+TYPESCRIPT | GITHUB | BITBUCKET | JIRA | SCRUM | KANBAN | TRELLO 
  
