@@ -6,7 +6,7 @@
 
 - I'm living in Rosario, Santa Fe, Argentina -
 
-## :computer: FULL STACK WEB DEVELOPMENT / FRONT-END DEVELOPER :computer:
+## :computer: FRONT-END DEVELOPMENT :computer:
 
 **-> BEST SKILLS**
 
