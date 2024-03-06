@@ -2,7 +2,7 @@
 
 :email: cheize1981@gmail.com
 
-:link: **Linkedin:** www.linkedin.com/in/ezequielrivas-dev
+:link: **Linkedin:** https://www.linkedin.com/in/ezequielrivas-dev
 
 - I'm living in Rosario, Santa Fe, Argentina -
 
